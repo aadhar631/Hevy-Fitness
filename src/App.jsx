@@ -7,8 +7,8 @@ import { useState } from "react"
 
 const App = () => {
 
-  const [isDarkMode, setIsDarkMode] = useState(false)
-  const [ status, setStatus ] = useState('light')
+  const [isDarkMode, setIsDarkMode] = useState(true)
+  const [ status, setStatus ] = useState('dark')
 
   return (
     <div className={isDarkMode && 'dark'} >
