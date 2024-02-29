@@ -1,0 +1,366 @@
+[
+  {
+    "id": 1,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/28931101-Scissors-(advanced)-(female)_small_thumbnail@3x.jpg",
+    "name" : "Ab Scissors",
+    "type" : "abdominals",
+    "equipment" : "None"
+  },
+  {
+    "id": 2,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/08571201-Wheel-Rollout_Waist_thumbnail@3x.jpg",
+    "name" : "Ab Wheel",
+    "type" : "abdominals",
+    "equipment" : "None"
+  },
+  {
+    "id": 3,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/38931101-Assault-Bike-Run_Cardio_small_thumbnail_@3x.jpg",
+    "name" : "Air Bike",
+    "type" : "cardio",
+    "equipment" : "None"
+  },
+  {
+    "id": 4,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/02871201-Dumbbell-Arnold-Press-II_Shoulders_thumbnail@3x.jpg",
+    "name" : "Arnold Press (Dumbbell)",
+    "type" : "shoulders",
+    "equipment" : "Dumbbell"
+  },
+  {
+    "id": 5,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/02881201-Dumbbell-Around-Pullover_Chest_thumbnail@3x.jpg",
+    "name" : "Around The World",
+    "type" : "chest",
+    "equipment" : "None"
+  },
+  {
+    "id": 6,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/17621101-Single-Leg-Squat-with-Support-(pistol)_Thighs_small_thumbnail@3x.jpg",
+    "name" : "Assisted Pistol Squats",
+    "type" : "quadriceps",
+    "equipment" : "None"
+  },
+  {
+    "id": 7,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/18601201-Hyperextension-(VERSION-2)_Hips_thumbnail@3x.jpg",
+    "name" : "Back Extension (Hyperextension)",
+    "type" : "lower back",
+    "equipment" : "Hyperextension"
+  },
+  {
+    "id": 8,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/05731201-Lever-Back-Extension_Waist_thumbnail@3x.jpg",
+    "name" : "Back Extension (Machine)",
+    "type" : "lower back",
+    "equipment" : "Machine"
+  },
+  {
+    "id": 9,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/12341101-Plate-Hyperextension_Hips_small_thumbnail@3x.jpg",
+    "name" : "Back Extension (Weighted Hyperextension)",
+    "type" : "lower back",
+    "equipment" : "Weighted Hyperextension"
+  },
+  {
+    "id": 10,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/13541101-Medicine-Ball-Overhead-Slam_Back_small_thumbnail@3x.jpg",
+    "name" : "Ball Slams",
+    "type" : "full body",
+    "equipment" : "None"
+  },
+  {
+    "id": 11,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/15031101-Band-Pull-Apart_Shoulders_small_thumbnail@3x.jpg",
+    "name" : "Band Pullaparts",
+    "type" : "sholders",
+    "equipment" : "None"
+  },
+  {
+    "id": 12,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/01281201-Battling-Ropes_thumbnail@3x.jpg",
+    "name" : "Battle Ropes",
+    "type" : "cardio",
+    "equipment" : "None"
+  },
+  {
+    "id": 13,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/01041101-Barbell-Standing-Back-Wrist-Curl_Forearms_small_thumbnail@3x.jpg",
+    "name" : "Behind the Back Bicep Wrist Curl (Barbell)",
+    "type" : "forearms",
+    "equipment" : "Barbell"
+  },
+  {
+    "id": 14,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/13991201-Bench-dip-on-floor_Upper-Arms_thumbnail@3x.jpg",
+    "name" : "Bench Dip",
+    "type" : "triceps",
+    "equipment" : "None"
+  },
+  {
+    "id": 15,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/00251201-Barbell-Bench-Press_Chest_thumbnail@3x.jpg",
+    "name" : "Bench Press (Barbell)",
+    "type" : "chest",
+    "equipment" : "Barbell"
+  },
+  {
+    "id": 16,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/01511201-Cable-Bench-Press_Chest_thumbnail@3x.jpg",
+    "name" : "Bench Press (Cabel)",
+    "type" : "chest",
+    "equipment" : "Cabel"
+  },
+  {
+    "id": 17,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/02891201-Dumbbell-Bench-Press_Chest_thumbnail@3x.jpg",
+    "name" : "Bench Press (Dumbbell)",
+    "type" : "chest",
+    "equipment" : "Dumbbell"
+  },
+  {
+    "id": 18,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/07481201-Smith-Bench-Press_Chest_thumbnail@3x.jpg",
+    "name" : "Bench Press (Smith Machine)",
+    "type" : "chest",
+    "equipment" : "Smith Machine"
+  },
+  {
+    "id": 19,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/00301201-Barbell-Close-Grip-Bench-Press_Upper-Arms_thumbnail@3x.jpg",
+    "name" : "Bench Press - Close Grip (Barbell)",
+    "type" : "triceps",
+    "equipment" : "Barbell"
+  },
+  {
+    "id": 20,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/01221201-Barbell-Wide-Bench-Press_Chest_thumbnail@3x.jpg",
+    "name" : "Bench Press - Wide Grip (Barbell)",
+    "type" : "chest",
+    "equipment" : "Barbell"
+  },
+  {
+    "id": 21,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/08921101-Band-bent_Back-over-row_Back_small_thumbnail@3x.jpg",
+    "name" : "Bent Over Row (Band)",
+    "type" : "upper back",
+    "equipment" : "Band"
+  },
+  {
+    "id": 22,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/00271201-Barbell-Bent-Over-Row_Back_thumbnail@3x.jpg",
+    "name" : "Bent Over Row (Barbell)",
+    "type" : "upper back",
+    "equipment" : "Barbell"
+  },
+  {
+    "id": 23,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/02931201-Dumbbell-Bent-Over-Row_Back_thumbnail@3x.jpg",
+    "name" : "Bent Over Row (Dumbbell)",
+    "type" : "upper back",
+    "equipment" : "Dumbbell"
+  },
+  {
+    "id": 24,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/00311201-Barbell-Curl_Upper-Arms_thumbnail@3x.jpg",
+    "name" : "Bicep Curl (Barbell)",
+    "type" : "biceps",
+    "equipment" : "Barbell"
+  },
+  {
+    "id": 25,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/01561201-Cable-Curl_Upper-Arms_thumbnail@3x.jpg",
+    "name" : "Bicep Curl (Cabel)",
+    "type" : "biceps",
+    "equipment" : "Cabel"
+  },
+  {
+    "id": 26,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/02941201-Dumbbell-Biceps-Curl_Upper-Arms_thumbnail@3x.jpg",
+    "name" : "Bicep Curl (Dumbbell)",
+    "type" : "biceps",
+    "equipment" : "Dumbbell"
+  },
+  {
+    "id": 27,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/10321101-Lever-Alternate-Biceps-Curl_Upper-Arms_small_thumbnail@3x.jpg",
+    "name": "Bicep Curl (Machine)",
+    "type": "biceps",
+    "equipment": "Machine"
+  },
+  {
+    "id": 28,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/10701101-Suspender-Arm-Curl_Upper-Arms_small_thumbnail@3x.jpg",
+    "name": "Bicep Curl (Suspension)",
+    "type": "biceps",
+    "equipment": "Suspension"
+  },
+  {
+    "id": 29,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/00031201-air-bike-m_waist_thumbnail@3x.jpg",
+    "name": "Bicycle Crunch",
+    "type": "abdominals",
+    "equipment": "None"
+  },
+  {
+    "id": 30,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/01471201-Bycicle-Twisting-Crunch_Waist_thumbnail@3x.jpg",
+    "name": "Bicycle Crunch Raised Legs",
+    "type": "abdominals",
+    "equipment": "None"
+  },
+  {
+    "id": 31,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/12411101-Bird-Dog-male_Back_small_thumbnail@3x.jpg",
+    "name": "Bird Dog",
+    "type": "glutes",
+    "equipment": "None"
+  },
+  {
+    "id": 32,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/05091101-Jump-Box_Plyometrics_small_thumbnail@3x.jpg",
+    "name": "Box Jump",
+    "type": "quadriceps",
+    "equipment": "None"
+  },
+  {
+    "id": 33,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/00261101-Barbell-Bench-Squat_Hips_small_thumbnail@3x.jpg",
+    "name": "Box Squat (Barbell)",
+    "type": "quadriceps",
+    "equipment": "Barbell"
+  },
+  {
+    "id": 34,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/22731101-Boxing-Right-Cross_small_thumbnail@3x.jpg",
+    "name": "Boxing",
+    "type": "cardio",
+    "equipment": "None"
+  },
+  {
+    "id": 35,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/22901101-Dumbbell-Bulgarian-Split-Squat-(female)_Thighs_small_thumbnail@3x.jpg",
+    "name": "Bulgarian Split Squat",
+    "type": "quadriceps",
+    "equipment": "None"
+  },
+  {
+    "id": 36,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/11601201-Burpee_Cardio_thumbnail@3x.jpg",
+    "name": "Burpee",
+    "type": "full body",
+    "equipment": "None"
+  },
+  {
+    "id": 37,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/10301201-Lever-Pec-Deck-Fly_Chest_thumbnail@3x.jpg",
+    "name": "Butterfly (Pec Deck)",
+    "type": "chest",
+    "equipment": "Pec Deck"
+  },
+  {
+    "id": 38,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/12021201-Cable-horizontal-Pallof-Press_waist_thumbnail@3x.jpg",
+    "name": "Cable Core Palloff Press",
+    "type": "abdominals",
+    "equipment": "None"
+  },
+  {
+    "id": 39,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/01751201-Cable-Kneeling-Crunch_Waist_thumbnail@3x.jpg",
+    "name": "Cable Crunch",
+    "type": "abdominals",
+    "equipment": "None"
+  },
+  {
+    "id": 40,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/12691201-Cable-Standing-Up-Straight-Crossovers_Chest_thumbnail@3x.jpg",
+    "name": "Cable Fly Crossovers",
+    "type": "chest",
+    "equipment": "None"
+  },
+  {
+    "id": 41,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/12061201-Cable-pull-through_hips_thumbnail@3x.jpg",
+    "name": "Cable Pull Through",
+    "type": "glutes",
+    "equipment": "None"
+  },
+  {
+    "id": 42,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/12071201-Cable-twist-(down-up)_waist_thumbnail@3x.jpg",
+    "name": "Cable Twist (Down to up)",
+    "type": "abdominals",
+    "equipment": "Down to up"
+  },
+  {
+    "id": 43,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/08621201-Cable-twist-(up-down)_Waist_thumbnail@3x.jpg",
+    "name": "Cable Twist (Up to down)",
+    "type": "abdominals",
+    "equipment": "Up to down"
+  },
+  {
+    "id": 44,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/23151201-Lever-Rotary-Calf_Calves_thumbnail@3x.jpg",
+    "name": "Calf Extension (Machine)",
+    "type": "Calves",
+    "equipment": "Machine"
+  },
+  {
+    "id": 45,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/07381201-Sled-45-Calf-Press_Calves_thumbnail@3x.jpg",
+    "name": "Calf Press (Machine)",
+    "type": "Calves",
+    "equipment": "Machine"
+  },
+  {
+    "id": 46,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/02511201-Chest-Dip_Chest_thumbnail@3x.jpg",
+    "name": "Chest Dip",
+    "type": "chest",
+    "equipment": "None"
+  },
+  {
+    "id": 47,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/00091201-Assisted-Chest-Dip-(kneeling)_Chest_thumbnail@3x.jpg",
+    "name": "Chest Dip (Assisted)",
+    "type": "chest",
+    "equipment": "None"
+  },
+  {
+    "id": 48,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/09131101-Band-middle-fly_Chest_small_thumbnail@3x.jpg",
+    "name": "Chest Fly (Band)",
+    "type": "chest",
+    "equipment": "Band"
+  },
+  {
+    "id": 49,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/03081201-Dumbbell-Fly_Chest_thumbnail@3x.jpg",
+    "name": "Chest Fly (Dummbell)",
+    "type": "chest",
+    "equipment": "Dumbbell"
+  },
+  {
+    "id": 50,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/05961201-Lever-Seated-Fly_Chest_thumbnail@3x.jpg",
+    "name": "Chest Fly (Machine)",
+    "type": "chest",
+    "equipment": "Machine"
+  },
+  {
+    "id": 51,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/10741101-Suspender-Fly_Chest_small_thumbnail@3x.jpg",
+    "name": "Chest Fly (Suspension)",
+    "type": "chest",
+    "equipment": "Suspension"
+  },
+  {
+    "id": 52,
+    "img": "https://pump-app.s3.eu-west-2.amazonaws.com/exercise-thumbnails/09201101-Band-standing-chest-press_Chest_small_thumbnail@3x.jpg",
+    "name": "Chest Press (Band)",
+    "type": "chest",
+    "equipment": "Band"
+  }
+]
